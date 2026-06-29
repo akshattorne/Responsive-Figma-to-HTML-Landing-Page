@@ -135,4 +135,3 @@ Simply open the `index.html` file in your preferred web browser.
 
 **akshattorne**
 ---
-````
