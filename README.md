@@ -115,11 +115,7 @@ Simply open the `index.html` file in your preferred web browser.
 
 ## 📸 Screenshots
 
-### Desktop View
-
-## 📸 Preview
-
-![Responsive Landing Page](./screenshots/figma-preview-png.png)
+![Responsive Landing Page](./images/figma-preview-png.png)
 
 ---
 
