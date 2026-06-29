@@ -136,5 +136,3 @@ Simply open the `index.html` file in your preferred web browser.
 **akshattorne**
 ---
 ````
-
-One suggestion: if you're using this project in your portfolio or for recruiters, avoid leaving placeholders like the LinkedIn URL or screenshot section. Either fill them in or remove them, as incomplete README sections can make an otherwise polished project feel unfinished.
